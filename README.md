@@ -30,7 +30,7 @@
 <!-- 清单标记开始 -->
 | 序号 | 文件 | 名称 | 活动入口 |
 | :-: | - | - | - |
-|1|[jd_bean_change.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_change.js)|京豆变动通知||
+|1|[jd_bean_change.js](https://github.com/HiYang8023/jd_scripts-1/edit/master/jd_bean_change.js)|京豆变动通知||
 |2|[jd_bean_home.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_home.js)|领京豆额外奖励|京东APP首页-领京豆|
 |3|[jd_bean_sign.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_sign.js)|京豆签到|各处的签到汇总|
 |4|[jd_blueCoin.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js)|东东超市兑换奖品|京东APP我的-更多工具-东东超市|
